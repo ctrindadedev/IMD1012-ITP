@@ -1,2 +1,2 @@
-### itp
-Introdução as Técnicas de Programação  - Exercícios e Projetos
+### ITP
+Repositório destinado aos exercícios  da matéria Introdução as Técnicas de Programação 
